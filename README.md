@@ -1,2 +1,5 @@
-# dw_matrix
-Projekt Matrix
+# dw_matrix - transformation
+Project Matrix
+- a 
+- b
+- c
